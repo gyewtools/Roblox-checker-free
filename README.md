@@ -1,24 +1,32 @@
-# Roblox-checker-free
-A free roblox requests based cheker
 
-Combos -
-user:password
+# Roblox checker
 
-Proxies -
-user:password@ip:port 
+The checker is a requests based checker for roblox.com
+Formats :
+user:pass
+user:pass@ip:port (proxies)
 
-**The checker is pure requests doesnt check for 2factor nor doesnt it do any capture**
-**However there is a premium version that does all this and more**
 
-Premium version has 
-Follow bot
-Cookie capture
-Robux capture
-Currency purchase capture
-RAP capture
-Country capture
-Gamepass capture
-Premium capture 
-2fa capture
+## Authors
 
-DM gyew on discord to purchase premium version source code
+- [@gyewtools](https://www.github.com/gyewtools)
+
+
+## FAQ
+
+#### How to install python?
+
+https://realpython.com/installing-python/
+
+#### It says module not installed
+
+do "pip install (modulename)"
+modulename being the not installed module
+
+## Features
+
+- Proxy support
+- Validation check
+- Requests based
+- RoStile captcha solver
+
