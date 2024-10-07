@@ -30,3 +30,19 @@ modulename being the not installed module
 - Requests based
 - RoStile captcha solver
 
+## Premium
+- Undetected
+- Follow bot
+- Robux capture
+- Better UI
+- Total Robux capture
+- Gamepass capture
+- Premium capture
+- Country capture
+- Cookie capture
+- Join date capture
+- Ps99 gamepass capture
+- All able to turn off and on easily
+- 2 UI styles
+- 2fa check
+- Purchase ? Dm @gyew on discord or https://t.me/SlLVERBULLET
