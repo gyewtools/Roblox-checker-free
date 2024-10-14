@@ -4,7 +4,7 @@
 The checker is a requests based checker for roblox.com
 Formats :
 user:pass
-user:pass@ip:port (proxies)
+user:pass@ip:port (proxies) residential, 1 minute sticky
 
 
 ## Authors
