@@ -1,5 +1,6 @@
 
 # Roblox checker
+# PATCHED
 
 The checker is a requests based checker for roblox.com
 Formats :
