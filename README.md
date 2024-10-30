@@ -38,6 +38,9 @@ modulename being the not installed module
 - Better UI
 - Total Robux capture
 - Gamepass capture
+- Korblox/headless capture
+- Asset bot
+- Group joiner
 - Premium capture
 - Country capture
 - Cookie capture
